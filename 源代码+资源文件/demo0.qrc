@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/demo0">
+        <file>CSU.png</file>
+        <file>Molly.png</file>
+        <file>Molly2.png</file>
+        <file>Molly3.png</file>
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
