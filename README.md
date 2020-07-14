@@ -24,7 +24,7 @@
 
 直接点击下方的demo0.mp4就可以啦w
 
-**更新：**加了书签和附件的完善版课程报告放到这里啦[点我传送w](https://github.com/Chiuye/stock-system/releases/tag/v0.1)
+**更新**：加了书签和附件的完善版课程报告放到这里啦：[点我传送w](https://github.com/Chiuye/stock-system/releases/tag/v0.1)
 
 有书签的课设报告方便跳转、不会因为页数太多翻得晕头转向……以及**项目中所有所需的文件（包括演示视频）都作为完善版课设报告pdf的附件了**，也就是说，只要下载这一个pdf就够了
 
